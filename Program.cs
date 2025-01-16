@@ -1,2 +1,2 @@
-﻿using var pong = new pong.Pong1();
+﻿using var pong = new pong.Pong();
 pong.Run();
