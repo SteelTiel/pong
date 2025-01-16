@@ -1,2 +1,2 @@
-﻿using var game = new game.Game1();
-game.Run();
+﻿using var pong = new pong.Pong1();
+pong.Run();
