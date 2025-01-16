@@ -5,7 +5,6 @@
 # C#
 obj/**
 bin/**
-.config/**
 
 # Monogame
-Content/**
+.config/**
